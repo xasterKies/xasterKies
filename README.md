@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Soft Skills👨🏽‍💻
 - 🌱 I’m currently learning Javascript 
-- ⚡ Fun fact: Turn to be Lunatic about Efficiency😄
+- ⚡ Fun fact: Turn to be Lunatic about Productivity and Efficiency😄
 
 <h3 align="left">🛠&nbsp;Languages and Tools:</h3>
 <p align="left">
