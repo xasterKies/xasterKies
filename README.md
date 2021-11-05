@@ -1,6 +1,5 @@
-### Helloooooh 🙂👋
+### Hello there 🙂👋
 
-- 🔭 I’m currently working on Soft Skills👨🏽‍💻
 - 🌱 I’m currently learning Javascript 
 - ⚡ Fun fact: Turn to be Lunatic about Productivity and Efficiency😄
 
