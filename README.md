@@ -1,6 +1,6 @@
 ### Hello there 🙂👋
 
-- 👨‍💻 I'm currently working on Technical skills
+- 👨‍💻 I'm currently working on some Technical skills
 - 🌱 I’m currently learning Javascript 
 - ⚡ Fun fact: Turn to be Lunatic about Productivity and Efficiency😄
 
