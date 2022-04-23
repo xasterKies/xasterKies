@@ -1,6 +1,6 @@
-Hi, You're Welcome 🙌🏽,
+Hi, You're Welcome 🙌🏽
 
-A programmer ⌨️ intrested in:
+ Intrested in:
  - System Programming 1️⃣0️⃣1️⃣
  - Cloud and Edge Computing ☁️ 
  - Software Development 🌐
