@@ -5,5 +5,5 @@ This is an experimental space. It's alright if you don't get what is going on he
 - 🔭 Fascinated by Arts, Humans & Computers
 - 💬 Ask me about Computers and Arts
 - 🌱 Fun fact: I'm just human
-- 📫 Reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:samueltiokeng@gmail.com)
+- 📫 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:samueltiokeng@gmail.com)
 
