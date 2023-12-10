@@ -4,6 +4,7 @@ This is an experimental space. It's alright if you don't get what is going on he
 
 - 🔭 Fascinated by Arts, Humans & Computers
 - 💬 Ask me about Computers and Arts
+- 💻 Student of complex systems.
 - 🌱 Fun fact: I'm just Human
 - 📮 Feel free to reachout:  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:samueltiokeng@gmail.com)
 
